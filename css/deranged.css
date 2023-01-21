@@ -1,0 +1,23 @@
+body {
+background-image: url("https://media.tenor.com/kwRBIGxKbE4AAAAM/gorila-gorilla.gif");
+background-color: black;
+
+    margin:0;
+}
+.center {
+  height: 100%;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vid {
+  height:90%;
+  width: 90%;
+  background-color: #555;
+ }
+.fill {
+    width: 100%; 
+    height: 100%; 
+	object-fit: fill;
+}
